@@ -1,0 +1,23 @@
+
+.container1 {
+		 margin: auto;
+	   width: 70%;
+		 border: 1.2px solid #000000;
+		 text-align: center;
+		 background-color:#ADD8E6;
+		 font-family: cursive;
+		}
+	.container1 h2{
+				 margin-left:70%;
+				 margin-top:0px;
+				 border-bottom: 1.2px solid #000000	;
+				 border-left: 1.2px solid #000000	;
+				 background-color:#98FB98;
+			}
+
+.heading{
+  text-align: center;
+  font-family: cursive;
+  margin-top: 40px;
+  margin-bottom: 90px;
+}
